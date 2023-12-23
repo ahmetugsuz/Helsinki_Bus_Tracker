@@ -1,6 +1,6 @@
 # Helsinki Bus Tracker
 
-Welcome to the Helsinki Bus Tracker, the upgraded version (2.0) of Finland Bus Routes application! This application consumes telemetry from the MQTT broker server mqtt.hsl.fi, stores the telemetry data, and makes it searchable through an API. The API, accessible via HTTP, provides information about the location and next stops for the buses in the greater Helsinki area. All this information can be accessed through this application.  
+Welcome to the Helsinki Bus Tracker, the upgraded version (2.0) of Finland Bus Routes! This application consumes telemetry from the MQTT broker server mqtt.hsl.fi, stores the telemetry data, and makes it searchable through an API. The API, accessible via HTTP, provides information about the location and next stops for the buses in the greater Helsinki area. All this information can be accessed through this application.  
 
 
 ## Version 2 Updates
