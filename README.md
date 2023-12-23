@@ -1,10 +1,6 @@
 # Helsinki Bus Tracker
 
-Welcome to the Helsinki Bus Tracker (Finland Bus Routes version 2.0) project! This application consumes telemetry from the MQTT broker server mqtt.hsl.fi, stores the telemetry data, and makes it searchable through an API. The API, accessible via HTTP, provides information about the location and next stops for the buses in the greater Helsinki area. All this information can be accessed through this application.  
-
-***The name of the application was called Finland Bus Routes V2 before, but it has now changed to **Helsinki Transit Tracker**. You will still notice references to the old name, such as "Finland Bus Routes Version 2.0".***  
-If u wish to check out the old version of this application, Finland Bus Routes V1, please follow the link to its github repository below:
-https://github.com/ahmetugsuz/Finland_Bus_Routes
+Welcome to the Helsinki Bus Tracker, the upgraded version (2.0) of Finland Bus Routes application! This application consumes telemetry from the MQTT broker server mqtt.hsl.fi, stores the telemetry data, and makes it searchable through an API. The API, accessible via HTTP, provides information about the location and next stops for the buses in the greater Helsinki area. All this information can be accessed through this application.  
 
 
 ## Version 2 Updates
@@ -20,6 +16,9 @@ Discover the enhanced features and improvements in Finland Bus Routes Version 2.
 - **Constructive and Cleaner API Objects:** Version 2 introduces a more structured and well-organized API, making it easier to understand. The enhanced structure includes additional information, contributing to the development of a more robust and helpful backend for developers.
 
 - **Timing of Cleanup:** Thanks to the latest robust error handling mechanisms, the cleanup application for the database is now scheduled every 6 minutes as a standard option. This enhancement not only ensures a more streamlined data maintenance process but also provides you with a richer dataset to explore during the testing phase before it becomes your real-life bus tracking app. 
+
+If u wish to check out the old version of this application, Finland Bus Routes V1, please follow the link to its github repository below:
+https://github.com/ahmetugsuz/Finland_Bus_Routes  
 
 
 ## Table Of Contents
